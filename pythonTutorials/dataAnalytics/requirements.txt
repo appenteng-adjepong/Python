@@ -1,0 +1,26 @@
+numpy
+scipy
+absl-py
+flax
+jax
+jraph
+optax
+matplotlib
+scikit-learn
+torch
+# torchvision
+# torchaudio
+# torch-sparse
+# torch-scatter
+# torch-spline-conv
+# torch-cluster
+# torch-geometric
+jupyter
+notebook
+pytest
+pandas
+seaborn
+xgboost
+lightgbm
+control
+h5py
